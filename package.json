@@ -1,0 +1,21 @@
+{
+  "name": "quote-grabber",
+  "private": true,
+  "dependencies": {
+    "react-jarb": "^1.0.2"
+  },
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "boilerplate": "react-jarb",
+    "webpack": "webpack --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
